@@ -11,7 +11,8 @@ import UIKit
 class ViewController: UIViewController {
     
     var members = [
-        "Petar Vudragovic"
+        "Petar Vudragovic",
+        "Boris Fazekas"
     ]
     
     override func viewDidLoad() {
